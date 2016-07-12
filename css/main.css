@@ -38,6 +38,10 @@ ul.posts, ul.projects {
     font-size: 1.5em;
 }
 
-ul.posts li, ul.projects li {
+ul.posts li {
+    list-style: none;
+}
+
+ul.projects li {
     list-style: none;
 }
