@@ -6,7 +6,7 @@ category: project
 	<h1>{{ page.title }}</h1>
 	<ul class="projects">
 
-	  {% for project in site.category.project %}
+	  {% for project in site.categories.project %}
 	    <li><span>{{ project.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ project.title }}</a></li>
 	  {% endfor %}
 	</ul>
