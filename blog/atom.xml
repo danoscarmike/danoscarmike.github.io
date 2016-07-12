@@ -11,7 +11,7 @@ layout: feed
 	<id>http://danoscarmike.com/blog</id>
 	<author>
 		<name>Dan O'Meara</name>
-		<email>omeara.dan@gmail.com</email>
+		<email></email>
 	</author>
 
 	{% for post in site.posts %}
