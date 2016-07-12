@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Projects
+category: project
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<ul class="projects">
 
-	  {% for post in site.posts.projects %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for project in site.posts.projects %}
+	    <li><span>{{ project.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ project.title }}</a></li>
 	  {% endfor %}
 	</ul>
