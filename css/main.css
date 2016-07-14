@@ -2,9 +2,13 @@
   margin-top: 6rem;
   text-align: left; }
 
-ul.nav {
-  display: inline;
+nav ul {
   list-style: none;
+  font-weight: bold;
+}
+
+nav ul li {
+  display: inline;
   margin-right: 20px;
 }
 
