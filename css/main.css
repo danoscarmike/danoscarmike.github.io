@@ -17,8 +17,8 @@ nav ul li {
   flow-into: 100%;
 }
 
-img {
-  width: inherit;
+img.project {
+  width: 100%;
 }
 
 /* Larger than phone */
