@@ -10,6 +10,7 @@ nav ul {
 nav ul li {
   display: inline;
   margin-right: 20px;
+  flow-into: 100%;
 }
 
 /* Larger than phone */
