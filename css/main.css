@@ -5,6 +5,7 @@
 .quote {
   margin: 0 50px 0 50px;
 }
+
 nav ul {
   list-style: none;
   font-weight: bold;
@@ -14,6 +15,10 @@ nav ul li {
   display: inline;
   margin-right: 20px;
   flow-into: 100%;
+}
+
+img {
+  width: inherit;
 }
 
 /* Larger than phone */
