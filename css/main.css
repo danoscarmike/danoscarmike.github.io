@@ -15,18 +15,24 @@
 
 nav ul {
   list-style: none;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 nav ul li {
   display: inline;
   margin-right: 20px;
-  flow-into: 100%;
+  /*flow-into: 100%;*/
 }
 
 ul.footer {
   list-style: none;
   font-weight: normal;
+}
+
+ul.footer li {
+  display: inline;
+  margin-right: 20px;
+  /*flow-into: 100%;*/
 }
 
 img.project {
