@@ -2,7 +2,8 @@
   margin-top: 6rem;
   text-align: left; }
 
-.nav {
+ul.nav {
+  display: inline;
   list-style: none;
   margin-right: 20px;
 }
