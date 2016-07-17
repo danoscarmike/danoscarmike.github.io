@@ -2,10 +2,19 @@
 layout: default
 title: Projects
 ---
+<div>
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
-
-	  {% for post in site.projects %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+</div>
+<div class="row">
+  <div class="four columns">
+    <a href="http://danoscarmike.com/brexit">
+			<img class="project" src="/img/brexit-thumbnail.png" alt="Brexit">
+		</a>
+    <div>
+      <h3>Brexit</h3>
+      <p>Visualization of the results of the recent EU referendum in the UK.
+			Uses <a href="https://github.com/mbostock/d3">d3.v4</a> and features
+			drag and zoom.  <a href="http://danoscarmike.com/brexit">Launch</a></p>
+    </div>
+  </div>
+</div>

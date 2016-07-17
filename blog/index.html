@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Dan O&sol;M's blog
+title: Blog
 ---
+<div class="page-header">
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
-
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+</div>
+<p>This isn't my first attempt at committing my thoughts to the web. <a href="/resources/blogger.xml">Link here</a> to a feed of my previous attempts from 2010 to 2012.</p>
+<ul>
+  {% for post in site.categories.post %}
+    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
