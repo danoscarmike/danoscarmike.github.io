@@ -5,7 +5,7 @@ date: 2012-02-18
 category: archive
 published: true
 ---
-The ABC's Foreign Correspondent was in Bavaria this week presenting an interesting perspective on the German economy and why it represents something of an anomaly in the trend of struggle in Europe ([A Bavarian Fairy Tale]("http://www.abc.net.au/foreign/content/2012/s3430858.htm")).  Despite the presenter Eric Campbell's persistent patronization of Bavarian culture and heritage I was positively transfixed for the half-hour duration of the show.
+The ABC's Foreign Correspondent was in Bavaria this week presenting an interesting perspective on the German economy and why it represents something of an anomaly in the trend of struggle in Europe ([A Bavarian Fairy Tale](http://www.abc.net.au/foreign/content/2012/s3430858.htm)).  Despite the presenter Eric Campbell's persistent patronization of Bavarian culture and heritage I was positively transfixed for the half-hour duration of the show.
 
 The central focus of the show was the concept of Mittelstand.  Mittelstand businesses are commonly promoted as the basis of Germany's current economic strength.  They represent 99.7% of all companies in Germany, over 70% of German employees in private business work for a Mittelstand and 40% of sales tax revenue is from Mittelstand businesses.  Yet the ABC presenter proffers that Mittelstand is a word which is untranslatable.  This of course is a nonsense and not only is it possible to translate and understand, it is important that we do so.
 
