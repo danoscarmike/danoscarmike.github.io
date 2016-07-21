@@ -35,6 +35,10 @@ footer ul li {
   /*flow-into: 100%;*/
 }
 
+img.blog {
+  float: right;
+}
+
 img.project {
   width: 100%;
 }
