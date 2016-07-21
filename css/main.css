@@ -10,9 +10,9 @@
   font-size: 1.5rem;
 }
 
-.sidebar {
+.aboutbar {
   font-size: 1.25rem;
-  border-width: 0 0 0 1px;
+  border-width: thin;
   border-style: solid;
   border-color: #51b603;
 }
