@@ -5,13 +5,6 @@ date: 2011-10-11
 category: archive
 published: true
 ---
-Foreword
-
-*Ouch!  Given the Brexit result I'm not really sure how I feel about this one - almost five years later.  On one hand I stand by my point here - a politician has a mandate and he needs to be true to it and himself.  On the other DC was probably two smart by half when it came to his EU home politics.*
-
-*Dan*
-*20 July 2016*
-
 ![Former Irish President  McAleese]({{site.url}}/resources/blog-images/2011-10-11-mary_mcaleese.jpg){: .blog }Marking her last day as President of Ireland, Mary McAleese writes a letter of thanks in today's The Irish Times, and reflects on the human capacity for change.
 
 ".....we have a stable peace for the first time in centuries. Regrettably the “rhyming” of peace and prosperity remains some distance away, for we have been hit with a massive economic retrenchment, a global recession and serious fiscal challenges within the euro zone.
