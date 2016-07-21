@@ -18,3 +18,5 @@ All the while, "austerity" didn't rear it's ugly head.  A Mittelstand finds the 
 Despite being so engrossed by this story I could not avoid the thought that of course Germany is not blameless in this ongoing crisis.  Low interest rates at the ECB were maintained in part to inject cheap finance into a earlier German economy in the doldrums.  And so I expect rather than Mittelstand being some panacea, it is the romantic notion of a man making a profit for the effort of producing something real that I am attracted to.  
 
 Nevertheless there is a lesson of restraint to be learned from Germany.  Eric Campbell and the world might well patronize Germany and Germans for their fashion sense and sense of humor but as struggling economies plot their return to traditional strengths (see the resurrection of Ireland's agriculture industry) and communities return to humanity, seriously, nobody is laughing at Lederhosen - especially not with business booming.
+
+Back to [Archive]({{site.url}}/blog/archive.html)

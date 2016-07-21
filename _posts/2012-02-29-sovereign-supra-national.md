@@ -11,3 +11,5 @@ This was a draft post only.  I never published it.  Indeed, I never finished it.
 
 I had gotten myself to thinking that the world was flat, you see, irrevocably interconnected and continuously communicating.  Information was flowing freely between open minds, the liberal progressive types out there - everywhere.  Where exactly didn't really matter.
 This of course meant that those pesky geographic land borders, frontiers, had finally lost any major significance and stood essentially, only as historic reference of what once was and as a meaningless doff to those few nationalistic types that never left home.
+
+Back to [Archive]({{site.url}}/blog/archive.html)

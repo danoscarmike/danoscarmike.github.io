@@ -15,4 +15,6 @@ In the quiet but relentless voluntary community work undertaken daily in every c
 
 In Ireland peace is the antithesis to prolonged sectarian violence and terrorism.  Elsewhere it may be famine or drought, depravity of government or humanitarian crisis. Elsewhere are nations and places far less well off than Ireland or Italy or Greece.  These countries talk of financial concepts of stimuli and quantitative easing; catalysts of commerce.  In Juba and Nairobi, in Suva and Karachi the need is for a different kind of catalyst: food and sustainable agriculture, water, hygiene and sanitation practice, communication and education.
 
-Everywhere, President McAleese's letter reminds me, people should be afforded the opportunity to achieve the rhyme of peace and prosperity.  And with the right catalysts, perhaps this rhyme can grow organically as it has begun to in Ireland, founded on the indomitable capacity of our species to improve itself.  
+Everywhere, President McAleese's letter reminds me, people should be afforded the opportunity to achieve the rhyme of peace and prosperity.  And with the right catalysts, perhaps this rhyme can grow organically as it has begun to in Ireland, founded on the indomitable capacity of our species to improve itself.
+
+Back to [Archive]({{site.url}}/blog/archive.html) 

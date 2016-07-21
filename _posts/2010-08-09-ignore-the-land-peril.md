@@ -12,3 +12,5 @@ There are many points of policy on which I disagree with Tony Abbott, the leader
 However, where Tony Abbott and the opposition have my absolute support is in their inclusion of agriculture in any solution.  Not only in the context of the climate debate but in that of economic opportunity broadly, the thought has often burdened me how a sector with such a colossal geographical footprint has so hastily been ignored.  Not least of the reasons why we should, is when we consider the industries representing the largest emitters of greenhouse gases, agriculture sits pretty atop the list.
 
 There are a myriad exceptions but generally farmers have struggled with accepting the need for diversity and innovation.  The agriculture industry is not immune to competition and its exponents must adapt to change, like all businesses.  So here is my call: farmers everywhere get on board.  
+
+Back to [Archive]({{site.url}}/blog/archive.html)

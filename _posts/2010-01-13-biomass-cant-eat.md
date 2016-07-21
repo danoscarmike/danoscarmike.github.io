@@ -23,4 +23,4 @@ And as for Copenhagen and the great climate debate?  I may be delusional but I s
 
 In a time when we take stock of what is important and grapple to our geo-cultural identities with hoops of steel, I'll buy into that.  
 
-Back to [Archive]({{site.url}}/blog/archive.html){: .about}
+Back to [Archive]({{site.url}}/blog/archive.html)
