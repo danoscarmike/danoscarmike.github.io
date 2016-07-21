@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UK says no to Federal Europe"
-date: 2012-10-12
+date: 2011-10-12
 category: archive
 published: true
 ---
