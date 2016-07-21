@@ -5,8 +5,8 @@ date: 2011-12-10
 category: archive
 published: true
 ---
-Foreword &vert; 20 July 2016 &vert; Dan    
-*Ouch!  Given the Brexit result I'm not really sure how I feel about this one - almost five years later.  On one hand I stand by my point here - a politician has a mandate and he needs to be true to it and himself.  On the other DC was probably two smart by half when it came to his EU home politics.*{:.about}
+Foreword   
+Ouch!  Given the Brexit result I'm not really sure how I feel about this one - almost five years later.  On one hand I stand by my point here - a politician has a mandate and he needs to be true to it and himself.  On the other DC was probably two smart by half when it came to his EU home politics.  *Dan 7/20/2016*{:.about}
 
 David Cameron is attracting some serious attention. His position of excluding the United Kingdom from any future fiscal union is a polarizing issue in Brussels - albeit creating an imbalanced split at 26 to 1. It's polarizing too, no doubt, at home in Great Britain, though decidedly less imbalanced; and this is the crux of it according to Der Spiegel. The German weekly holds no punches claiming that "arrogant posturing aimed at appeasing the electorate back home is damaging". "Bye bye Britain", it says.  
 
