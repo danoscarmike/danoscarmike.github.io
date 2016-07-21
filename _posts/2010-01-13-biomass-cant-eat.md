@@ -22,3 +22,5 @@ My point (that which is threatening to elude me) is that nothing at this junctur
 And as for Copenhagen and the great climate debate?  I may be delusional but I see parallels here.  Anthony Giddens, former Director of the London School of Economics, eminent sociologist and author of The Politics of Climate Change expressed a very simple fact in an opinion piece published in The Australian: the world is a diverse place.  As such, how can we ever expect to have one solution, one binding agreement, one target?  We must share a goal of continued, sustainable existence but to achieve this must we really believe there is only one way?  Giddens says the maligned Copenhagen Accord may well prove a worthy foundation upon which to build bilateral and regional alliances and agreements and thus tackle climate change by acknowledging the strength of diversity as well as its weakness.
 
 In a time when we take stock of what is important and grapple to our geo-cultural identities with hoops of steel, I'll buy into that.  
+
+Back to [Archive]({{site.url}}/blog/archive.html){: .about}
