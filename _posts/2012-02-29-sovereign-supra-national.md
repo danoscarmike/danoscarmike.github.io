@@ -4,6 +4,7 @@ title: "Sovereignty and supra-nationality"
 date: 2012-02-29
 category: archive
 published: true
+comments: true
 ---
 ##### Foreword    
 This was a draft post only.  I never published it.  Indeed, I never finished it.  In light of my post last week on identity and nationalism I thought I would share the shard.  From my sarcastic tone I think it's fair to say that I recognized that despite the trends of communication and globalization and despite my attraction to supra-nationality for the individual I recognized that nationalism was alive and well.     

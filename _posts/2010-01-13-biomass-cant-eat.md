@@ -4,6 +4,7 @@ title: "Biomass You Can't Eat Anyway"
 date: 2010-01-13
 category: archive
 published: true
+comments: true
 ---
 It can't be done, eh? Fighting words.
 

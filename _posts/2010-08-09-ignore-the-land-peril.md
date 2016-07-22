@@ -4,6 +4,7 @@ title: "We Ignore The Land At Our Peril"
 date: 2010-08-09
 category: archive
 published: true
+comments: true
 ---
 There are many points of policy on which I disagree with Tony Abbott, the leader of the coalesced opposition in the Australian Federal Parliament.  One such point is that, if indeed reducing carbon-dioxide and equivalent emissions is the goal, should those entities accountable for the largest percentages of these emissions be held to binding targets.
 

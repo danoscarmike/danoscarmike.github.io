@@ -4,6 +4,7 @@ title: "UK says no to Federal Europe"
 date: 2011-12-10
 category: archive
 published: true
+comments: true
 ---
 ##### Foreword    
 Ouch!  Given the Brexit result I'm not really sure how I feel about this one - almost five years later.  On one hand I stand by my point here - a politician has a mandate and he needs to be true to it and himself.  On the other DC was probably two smart by half when it came to his EU home politics.     

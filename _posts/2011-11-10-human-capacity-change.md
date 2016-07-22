@@ -4,6 +4,7 @@ title: "Human Capacity for Change"
 date: 2011-11-10
 category: archive
 published: true
+comments: true
 ---
 ![Former Irish President  McAleese]({{site.url}}/resources/blog-images/2011-11-10-mary_mcaleese.jpg){: .blog }Marking her last day as President of Ireland, Mary McAleese writes a letter of thanks in today's The Irish Times, and reflects on the human capacity for change.
 
@@ -17,4 +18,4 @@ In Ireland peace is the antithesis to prolonged sectarian violence and terrorism
 
 Everywhere, President McAleese's letter reminds me, people should be afforded the opportunity to achieve the rhyme of peace and prosperity.  And with the right catalysts, perhaps this rhyme can grow organically as it has begun to in Ireland, founded on the indomitable capacity of our species to improve itself.
 
-Back to [Archive]({{site.url}}/blog/archive.html) 
+Back to [Archive]({{site.url}}/blog/archive.html)

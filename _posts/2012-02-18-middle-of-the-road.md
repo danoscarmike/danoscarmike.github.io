@@ -4,6 +4,7 @@ title: "Middle of the Road"
 date: 2012-02-18
 category: archive
 published: true
+comments: true
 ---
 The ABC's Foreign Correspondent was in Bavaria this week presenting an interesting perspective on the German economy and why it represents something of an anomaly in the trend of struggle in Europe ([A Bavarian Fairy Tale](http://www.abc.net.au/foreign/content/2012/s3430858.htm)).  Despite the presenter Eric Campbell's persistent patronization of Bavarian culture and heritage I was positively transfixed for the half-hour duration of the show.
 
