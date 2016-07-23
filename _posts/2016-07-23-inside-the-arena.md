@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inside the arena"
-date: 2016-07-16
+date: 2016-07-23
 category: post
 published: true
 comments: true
