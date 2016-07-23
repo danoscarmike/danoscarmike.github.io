@@ -22,4 +22,4 @@ To paraphrase Kipling neither foes nor loving friends can hurt him. Let not that
 
 Roosevelt said “The credit belongs to the man…who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”
 
-Tim Kaine channeled the great president-explorer in 2014 when he said “Failing at something you care about is painful but ultimately less destructive to one’s sense of self than not trying.” Heaven help that Clinton and Kaine do not fail but taste triumph. The alternative is just too scary.
+Tim Kaine channeled the great president-explorer in 2014 when he said “Failing at something you care about is painful but ultimately less destructive to one’s sense of self than not trying.” Heaven help that Clinton and Kaine do not fail but taste triumph. The alternative is just too scary.    
