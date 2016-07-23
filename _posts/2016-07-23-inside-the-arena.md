@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Inside the arena"
+date: 2016-07-16
+category: post
+published: true
+comments: true
+---
+Two of my favorite writings are [‘If—‘](http://www.kiplingsociety.co.uk/poems_if.htm) by Rudyard Kipling and [‘Citizenship In A Republic’](http://www.theodore-roosevelt.com/trsorbonnespeech.html), a speech by Theodore Roosevelt to the Sorbonne University in Paris, France. Admittedly, I’m a bit of a sap. But the thing is that both pieces conjure for me not just dreams, though I am a dreamer, but visceral emotions and feelings. As I read either piece I’m flooded with thoughts about self-worth, contribution, doing meaningful work and legacy. This website, I guess, is an attempt to partly fulfill these imperatives.
+
+Yesterday, Hillary Clinton announced her running mate: Tim Kaine. Kaine is the former Governor of and currently Senator from Virginia. His is an interesting story and Clinton’s an interesting selection. On the face of it he’s about as much an *insider* as you’ll find. A career politician elected to the presidential ticket at the culmination of a primary process during which that insider moniker was as topical as any other issue. Bernie Sanders and Donald Trump alike rode a wave of anti-insider sentiment all the way to the finish line and to the penultimate goal in the case of the latter.
+
+Tim Kaine comes from a working class background. His father was a welder who owned a small metalworking shop in Kansas City, Missouri. He graduated from Harvard Law but not before taking a nine month break to work on a Catholic mission teaching school in Honduras. There he became fluent in Spanish, a fluency he maintains today. Having left Harvard he did not follow a typical path of Ivy League alumni. He went to work in Richmond, Virginia focussing on fair housing and civil rights issues. Remind you of another Harvard Law grad? Indeed Kaine and President Obama are close friends.
+
+In 1994 Kaine ran for City Council. Then Lieutenant Governor, Governor, chair of the Democratic National Committee and now Senator. It’s said that he has never lost an election; something Mrs. Clinton surely admires. FACT-CHECK: By Kaine’s own admission he has lost elections. In an interview with his [high school’s newspaper](https://pnonline.org/2014/12/10/exclusive-qa-us-senator-tim-kaine/) Kaine said: “I was pretty involved in student government, but mostly as a losing candidate! I lost student council races in 9th and 11th grade (after a pre-Rockhurst loss in 6th grade) before finally winning a race for student council President in 12th grade.” I think Hillary can give him a pass!
+
+Oh, but he’s an insider alright. No hiding that. My question is, why would you want to hide it? The man is qualified for the job. What’s more, as an individual, he is liked - I think, mostly, because he is principled. He is against capital punishment but upheld 11 execution orders because that meant upholding Virginia law. He is against abortion but does not deign to refuse a woman’s right to choose (he will not vote to overturn Roe v Wade). He was Governor in 2007 at the time of the horrific massacre at Virginia Tech and has earned an ‘F’ rating from the National Rifle Association urging senators to find a “small measure of courage” to pass tighter gun control laws. Not even his cross bench colleagues dislike the man. The New York Times quotes Virginia House of Delegates Speaker William J. Howell: “I don’t want to say anything bad about him, because he’s a very nice guy, but I don’t want to say anything good about him because I’m a Republican.”
+
+The fact of the matter is Kaine is an insider because he chooses to be. He chooses to get involved and promote and challenge issues that have meaning and that he is passionate about. He is a voice for his electorate. An individual, exercising his citizenship, of his people and for his people. He is, as Roosevelt put it, a “man in the arena”. Simple as that.
+
+To paraphrase Kipling neither foes nor loving friends can hurt him. Not let that stop the Trump campaign from trying. Within minutes of Mrs. Clinton’s announcement Kaine was branded “Corrupt Tim”. This is apparently founded on Kaine’s receipt and acceptance of various gifts while in elected office. Vacations, tickets to Washington Redskins games. They were generous gifts for sure. But never mind that Kaine is known to have exceeded his obligations in reporting gifts under both Virginia and US law. The man taught legal ethics at the University of Richmond for six years. Let’s assume he knows what he’s doing shall we?
+
+Roosevelt said “The credit belongs to the man…who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”
+
+Tim Kaine channeled the great president-explorer in 2014 when he said “Failing at something you care about is painful but ultimately less destructive to one’s sense of self than not trying.” Heaven help that Clinton and Kaine do not fail but taste triumph. The alternative is just too scary.
