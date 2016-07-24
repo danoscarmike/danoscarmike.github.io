@@ -17,6 +17,11 @@ layout: default
 <!-- facebook share -->
 <iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fwww.danoscarmike.com/blog&layout=button_count&size=small&mobile_iframe=true&width=69&height=20&appId" width="69" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
+<!-- WhatsApp share -->
+<a href="whatsapp://send?text=The text to share!" data-action="share/whatsapp/share">
+  <img src="/resources/whatsapp-share-button-trim.png" alt="Share via WhatsApp" style="height:20px;border:0;">
+</a>
+
 <div class="comments">
   {% if page.comments %}
 	 {% include disqus.html %}
