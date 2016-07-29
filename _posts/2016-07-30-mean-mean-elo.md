@@ -1,22 +1,19 @@
 ---
 layout: post
-title: "UK says no to Federal Europe"
-date: 2011-12-10
-category: archive
+title: "Developing a mean MEAN Elo rating application"
+date: 2016-07-30
+category: post
 published: true
 comments: true
 ---
-##### Foreword    
-Ouch!  Given the Brexit result I'm not really sure how I feel about this one - almost five years later.  On one hand I stand by my point here - a politician has a mandate and he needs to be true to it and himself.  On the other DC was probably two smart by half when it came to his EU home politics.     
-*Dan, 7/20/2016*
+Despite the abundance of political fodder in this week's news I couldn't bring myself to write about it.  The U.S. presidential campaigns are technically only beginning and I am already fatigued.  Instead I have decided to chronicle over a many, quantity to be determined, installments the development of my next project.  For me, an amateur coder this is an ambitious goal but one that encompasses many, maybe all, of my interests - application development (back-end), web development (front-end), statistics (of the Bayesian variety) and sport.
 
-David Cameron is attracting some serious attention. His position of excluding the United Kingdom from any future fiscal union is a polarizing issue in Brussels - albeit creating an imbalanced split at 26 to 1. It's polarizing too, no doubt, at home in Great Britain, though decidedly less imbalanced; and this is the crux of it according to Der Spiegel. The German weekly holds no punches claiming that "arrogant posturing aimed at appeasing the electorate back home is damaging". "Bye bye Britain", it says.  
+At a high level this is the plan:
++ Develop a statistical algorithm based on the [Elo Rating system](https://en.wikipedia.org/wiki/Elo_rating_system) (name after Arpad Elo, something of a legend it would appear) and incorporating a Bayesian approach to predict outcomes.  
++ The algorithm will be tunable to the nuances of various sporting contests (e.g. rugby, football - Gaelic, soccer, American, Australian) and be applied to an interactive web application serving visualizations predicting the outcome of each week's play.
++ The logic and data will sit in the backend exposed to web and mobile interfaces with an application programming interface (API);
++ Continue my exploration of D3.js in the front end visualizations;
++ Stretch goal: build in user engagement by allowing users to contribute predictions each week.  The user data may be added to the Bayesian analyses;
++ Just for kicks and because I've never done it before I'm going to develop this on the MEAN stack.  (MEAN = MongoDB, Express.js, Angular.js, Node.js);
 
-![Prime Minister of Great Britain David Camerson says Ich
-don't think so.  Photo courtesy of Nick Atkins Photography via Flickr]({{site.url}}/resources/blog-images/2011-12-10-david_cameron.jpg){: .blog }I admire Cameron's move here.  If there's one adage that continually rings true for me it's pick your battles.  The euro zone crisis is not of Britain's making.  It isn't a member of the common currency zone.  Perhaps even it is naive of Germany and France to suggest or believe that the UK would join the other non-euro zone nations in supporting the move towards a federal Europe (and let's face it, this is where it's going).  Newly elected and leading an experimental coalition government Cameron has already made some very unpopular decisions, slashing public spending and taking severe and austere steps toward rectifying its budget deficits.  Nobody held a gun to his head.  So why is it so surprising that Cameron would not represent his party's and constituency's sentiments?  Every negotiation should find a win-win scenario.  Where's the win in the fiscal union deal for Cameron and the UK?  
-
-And now France and Germany and Der Spiegel says, David, what are you doing?  You can't do this to us and you'll be isolated forever!  The commentary seems to suggest that the UK just can't survive outside the European Union.  Admittedly, I would still argue that being inside the circle is a better place for Britain but it's a weak argument to say it can't survive, let alone thrive on the outside.  It's nothing but a red rag to an imperial bull (-dog). I mean you'd swear from some of the press coverage that this was some kind of out of the blue, about-face policy from the UK, when in fact it has possibly been the least enthusiastic, most reluctant member of the community.  The UK doesn't share the currency and it certainly doesn't share a vision of a federal Europe.  It would seem fair to say that today it doesn't share much in common at all with its continental neighbors.  
-
-So what's new?  Well from Cameron's perspective, not much at all.  His country is still the sixth biggest economy in the world with traditional links to markets and partners all over the world.  And he still leads an experimental government of a proud island nation.  The island just happens to be close to Europe.
-
-Back to [Archive]({{site.url}}/blog/archive.html)
+![Watchoo talking about Willis?]({{site.url}}/resources/blog-images/2016-07-30-watchoo-willis.jpg){: .blog }  '*Traditional*' web development is on the LAMP stack (Linux, Apache, MySQL and PHP) the very idea of Javascript for the front-end && the back-end must have caused quite a few "Watchoo talking about Willis?" moments.  The world moved on and so I can now develop this prototype and name it with a big fat pun: my mean MEAN Elo predictor!
